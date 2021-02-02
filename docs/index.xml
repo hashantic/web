@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hashantic</title>
-    <link>https://hashantic.com/</link>
+    <link>https://hashantic.github.io/web/</link>
     <description>Recent content on Hashantic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Hashantic, LLC</copyright><atom:link href="https://hashantic.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Hashantic, LLC</copyright><atom:link href="https://hashantic.github.io/web/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
