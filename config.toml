@@ -1,4 +1,4 @@
-baseURL = "https://hashantic.com"
+baseURL = "https://hashantic.github.io/web/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hashantic"
